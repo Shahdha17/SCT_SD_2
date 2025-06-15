@@ -38,8 +38,8 @@ A pop-up-based graphical game window with:
 A short video demonstrating the working of the game is available.
 
 🎥 *Watch here:* 
-You can also check out the game and full details in my *[LinkedIn post]()
+You can also check out the game and full details in my *[LinkedIn post](https://www.linkedin.com/posts/shahdha-akhtharin-6693a731a_skillcrafttechnology-softwaredevelopment-activity-7340049153491644416-RVpU?utm_source=share&utm_medium=member_ios&rcm=ACoAAFDcIPEB6iOd73JGXY2Vl0fUIJTMkTa5Nw0)
 
 
 ### 🔗 Connect with Me  
-💼 [LinkedIn]()  
+💼 [LinkedIn](https://www.linkedin.com/in/shahdha-akhtharin-6693a731a)  
